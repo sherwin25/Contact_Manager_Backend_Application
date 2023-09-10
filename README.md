@@ -21,7 +21,7 @@ Welcome to the Contact Manager Backend API project! Here, I've harnessed the pow
 - **jsonwebtoken (JWT)**: Taking care of user authentication and session management.
 - **dotenv**: Efficiently managing environment variables.
 
-## 👩‍💻 Developer's Note
+##  👨‍💻 Developer's Note
 
 This project was an endeavor to learn and showcase the depth of backend development using some of the most trusted tools and libraries in the JavaScript ecosystem. It was an enriching experience, and I look forward to improving upon this and undertaking more projects. 
 
