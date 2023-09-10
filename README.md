@@ -40,24 +40,22 @@ Open to suggestions, bugs, feature requests, and more. Feel free to reach out or
 
 1. **Clone the repository**
 
-   ```bash
-   git clone [Your repository link here]
-   cd [Your project directory name]
-
-   ```
+```bash
+git clone [Your repository link here]
+cd [Your project directory name]
+```
 
 2. **Install Dependencies**
 
-   ```bash
-   npm install
-
-   ```
+```bash
+npm install
+```
 
 3. **Create a `.env` file in the root of your project directory:**
 
-````bash
+```bash
 touch .env
-````
+```
 4. **Add the following environment variables to your `.env` file:**
 
 ```bash
