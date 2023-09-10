@@ -23,7 +23,7 @@ Welcome to the Contact Manager Backend API project! Here, I've harnessed the pow
 
 ## 👩‍💻 Developer's Note
 
-This project was an endeavor to learn and showcase the depth of backend development using some of the most trusted tools and libraries in the JavaScript ecosystem. It was an enriching experience, and I look forward to improving upon this and undertaking more such projects.
+This project was an endeavor to learn and showcase the depth of backend development using some of the most trusted tools and libraries in the JavaScript ecosystem. It was an enriching experience, and I look forward to improving upon this and undertaking more projects. 
 
 ## 💡 Feedback and Contributions
 
