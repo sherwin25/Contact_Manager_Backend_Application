@@ -40,7 +40,7 @@ const errorHandler = (err, req, res, next) => {
       });
       break;
     default:
-      console.log("No error, all good!");
+      console.log("No error, all good!", err.message, err.stack);
       break;
   }
 };
