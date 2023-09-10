@@ -57,7 +57,7 @@ Open to suggestions, bugs, feature requests, and more. Feel free to reach out or
 
 ````bash
 touch .env
-
+````
 4. **Add the following environment variables to your `.env` file:**
 
 ```bash
@@ -65,6 +65,7 @@ PORT=5000
 MONGO_URI=[Your MongoDB URI]
 JWT_SECRET=[Your JWT Secret]
 ````
+
 
 5. **Start the server**
 
